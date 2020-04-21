@@ -1,4 +1,4 @@
-# Knight and Knaves
+# Knights and Knaves
 Using python to solve the infamous knights and knaves riddle  
 ## Puzzle 0 contains a single character, A.
 A says “I am both a knight and a knave.”  
@@ -13,3 +13,7 @@ A says either “I am a knight.” or “I am a knave.”, but you don’t know 
 B says “A said ‘I am a knave.’”  
 B then says “C is a knave.”  
 C says “A is a knight.”  
+
+
+
+#### Can you figure out who is who?
